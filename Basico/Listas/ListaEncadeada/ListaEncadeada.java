@@ -111,4 +111,10 @@ public class ListaEncadeada {
 		}
 	}
 
+    public void inserirPosicao(int p,int valor){
+    if(p<=0)
+        inseririnserirInicio(valor);
+
+}
+
 }
